@@ -148,7 +148,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
                 break;
 
-            case R.id.clear:
+            case R.id.CE:
                 symbol = "";
                 num1 = 0;
                 num2 = 0;
